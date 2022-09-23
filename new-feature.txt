@@ -1,3 +1,4 @@
 using react as a front end by replacing view engine (ejs) from express.js
 Migrating DBMS from MySql to PostgreSql
-MERN as the Tech Stack?
+MERN as the Tech Stack? Yes
+Mongo DB - Express JS - React JS - Node Js
