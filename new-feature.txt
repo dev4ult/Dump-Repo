@@ -1,3 +1,0 @@
-using react as a front end by replacing view engine (ejs) from express.js
-Migrating DBMS from MySql to PostgreSql
-MERN as the Tech Stack? Should be
